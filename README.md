@@ -1,8 +1,8 @@
-EstimationTask
+#EstimationTask
 
 Running version is available here: http://104.236.62.145/SENG/EstimationTask/index.php
 
-Set up MySQL database TEST and create two tables with the following attributes
+#Set up MySQL database TEST and create two tables with the following attributes
 
 CREATE TABLE `Publications` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
@@ -19,7 +19,14 @@ CREATE TABLE `Faculty` (
   `Position` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-Edit connect.php
+#Edit connect.php
 Change MySQL user and password to match your database
 Test website
+
+
+#Answers to questions
+Q1 - 2days
+Q2 - Destiny: 3hrs, Brandon 3hrs, Andie 45mins
+Q3 - Completely
+Q3 - High
 
